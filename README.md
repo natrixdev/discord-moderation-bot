@@ -1,7 +1,8 @@
 # Discord Moderation Bot 
 A Discord Bot for captcha, raid protection, anti-bot, anti-spam and a lot more ! 
 
-![image](https://user-images.githubusercontent.com/88579983/210184219-66a056c1-e64e-4309-b747-a50c12cb9093.png)
+![image](https://user-images.githubusercontent.com/88579983/210184292-ea7a5079-1b8d-4cee-8e75-8541caf99a2d.png)
+
 
 # Features
 - Captcha 
