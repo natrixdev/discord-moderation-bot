@@ -13,7 +13,7 @@ A Discord Bot for captcha, raid protection, anti-bot, anti-spam and a lot more !
 - Anti bots
 - Raid protection
 - White list 
-- Blacki list 
+- Black list 
 - Voice moderation 
 - Chatbot 
 - Moderation apply 
