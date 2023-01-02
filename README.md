@@ -1,6 +1,7 @@
 # COMMING SOON ON GITHUB.COM/[NATRIXDEV](https://github.com/natrixdev)
 
-# |---------------------------------------|
+# |-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-[-](https://github.com/natrixdev)-|
+
 
 
 # Discord Moderation Bot 
