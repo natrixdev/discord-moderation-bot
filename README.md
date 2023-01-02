@@ -1,3 +1,8 @@
+# COMMING SOON ON GITHUB.COM/[NATRIXDEV](https://github.com/natrixdev)
+
+|---------------------------------------|
+
+
 # Discord Moderation Bot 
 A Discord Bot for captcha, raid protection, anti-bot, anti-spam and a lot more ! 
 
